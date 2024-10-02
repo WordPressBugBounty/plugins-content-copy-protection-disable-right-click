@@ -1,0 +1,1 @@
+# plugins-content-copy-protection-disable-right-click
